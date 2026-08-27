@@ -6,8 +6,8 @@ export default function MusicPlayer() {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    // Create audio element for Aasa Orave song
-    const audio = new Audio('/song/Aasa Orave.mp3');
+    // Create audio element for Aasa Orave song with relative path
+    const audio = new Audio('./song/Aasa Orave.mp3');
     audio.loop = true;
     audio.volume = 0.6;
     audioRef.current = audio;

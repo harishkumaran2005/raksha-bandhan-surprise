@@ -8,7 +8,7 @@ export default function PhotoGallery() {
   const photos = [
     {
       id: 1,
-      src: '/gallery/1787848196424.jpg',
+      src: './gallery/1787848196424.jpg',
       title: 'Bus Ride Conversations 🚌',
       date: '2026',
       category: 'outings',
@@ -16,7 +16,7 @@ export default function PhotoGallery() {
     },
     {
       id: 2,
-      src: '/gallery/WhatsApp Image 2026-08-27 at 10.03.22 PM.jpeg',
+      src: './gallery/WhatsApp Image 2026-08-27 at 10.03.22 PM.jpeg',
       title: 'Sister\'s Shoulder Hug 🤗',
       date: '2026',
       category: 'cozy',
@@ -24,7 +24,7 @@ export default function PhotoGallery() {
     },
     {
       id: 3,
-      src: '/gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (1).jpeg',
+      src: './gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (1).jpeg',
       title: 'Night Temple Outing 🛕',
       date: '2026',
       category: 'outings',
@@ -32,7 +32,7 @@ export default function PhotoGallery() {
     },
     {
       id: 4,
-      src: '/gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (2).jpeg',
+      src: './gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (2).jpeg',
       title: 'Temple Courtyard Smiles ✨',
       date: '2026',
       category: 'cozy',
@@ -40,7 +40,7 @@ export default function PhotoGallery() {
     },
     {
       id: 5,
-      src: '/gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (3).jpeg',
+      src: './gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (3).jpeg',
       title: 'Unbreakable Hand Hold 🤝',
       date: '2026',
       category: 'special',
@@ -48,7 +48,7 @@ export default function PhotoGallery() {
     },
     {
       id: 6,
-      src: '/gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (4).jpeg',
+      src: './gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM (4).jpeg',
       title: 'Matching Colors & Laughs 🌸',
       date: '2026',
       category: 'cozy',
@@ -56,7 +56,7 @@ export default function PhotoGallery() {
     },
     {
       id: 7,
-      src: '/gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM.jpeg',
+      src: './gallery/WhatsApp Image 2026-08-27 at 10.03.23 PM.jpeg',
       title: 'Night Breeze Selfies 🌙',
       date: '2026',
       category: 'outings',
@@ -64,7 +64,7 @@ export default function PhotoGallery() {
     },
     {
       id: 8,
-      src: '/gallery/WhatsApp Image 2026-08-27 at 10.03.24 PM.jpeg',
+      src: './gallery/WhatsApp Image 2026-08-27 at 10.03.24 PM.jpeg',
       title: 'Ice Cream Parlor Hangout 🍦',
       date: '2026',
       category: 'special',

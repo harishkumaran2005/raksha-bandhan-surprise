@@ -45,7 +45,7 @@ export default function LetterVault() {
         <div className="relative grid grid-cols-1 md:grid-cols-2 gap-6 rounded-2xl overflow-hidden bg-slate-950/90 p-4 border border-yellow-500/20">
           <div className="relative rounded-xl overflow-hidden min-h-[380px] bg-stone-950 flex items-center justify-center">
             <img
-              src="/surprise/1787848165755.jpg"
+              src="./surprise/1787848165755.jpg"
               alt="Hidden Letter Page 1"
               className="w-full h-full object-cover filter blur-[36px] brightness-30 contrast-150 select-none pointer-events-none"
             />
@@ -53,7 +53,7 @@ export default function LetterVault() {
 
           <div className="relative rounded-xl overflow-hidden min-h-[380px] bg-stone-950 flex items-center justify-center">
             <img
-              src="/surprise/1787848165699.jpg"
+              src="./surprise/1787848165699.jpg"
               alt="Hidden Letter Page 2"
               className="w-full h-full object-cover filter blur-[36px] brightness-30 contrast-150 select-none pointer-events-none"
             />
